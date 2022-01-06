@@ -2,6 +2,13 @@ body{
 	margin: 0px;
 	font-family: 'Poppins', sans-serif;
 }
+.main-section{
+	width: 100%;
+}
+.content-section{
+	width: 95%;
+	margin: 0 auto;
+}
 .facused-mission{
 	text-align: justify;
 	display: flex;
