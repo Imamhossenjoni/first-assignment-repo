@@ -1,0 +1,117 @@
+body{
+	margin: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+.facused-mission{
+	text-align: justify;
+	display: flex;
+
+}
+.half-width{
+	width: 50%;
+	font-size: 22px;
+	text-align: justify;
+}
+.half-width img{
+	height: 450px;
+	margin-left: 50px;
+	
+	
+}
+.facused-mission-left-top {
+	border-left: 5px solid;
+	border-image: linear-gradient(red,tomato);
+	border-image-slice: 1;
+
+}
+.orange-color{
+	color: orange;
+}
+.button-link{
+	text-decoration: none;
+	font-size: 20px;
+	background-image: linear-gradient(red,tomato);
+	padding: 10px;
+	color: white;
+	border-radius: 5px;
+	font-weight: 700;
+}
+
+.my-main-mission{
+	display: flex;
+	width: 90%;
+	margin-top: 10px;
+
+}
+.mission-item{
+	width: 30%;
+	margin-left:5%;
+	font-size: 22px;
+	text-align: justify;
+	border-radius: 10px;
+
+}
+.mission-item p, h2{
+	margin-left: 7px;
+}
+.mission-item img{
+	height: 150px;
+	margin-left: 10px;
+}
+#mission-item-1{
+	background-color: lightblue;
+	border-radius: 5px solid black;
+
+}
+#mission-item-2{
+	background-color:#8E9FC0;
+	border-radius: 5px solid black;
+}
+#mission-item-3{
+	background-color:#B4B7BA;
+	border-radius: 5px solid black;
+}
+.develop{
+	display: flex;
+	margin-top:50px;
+	background-image: url(image/develop-left.png);
+	background-position: left;
+	background-size: 200px;
+	background-repeat: no-repeat;
+}
+.global-community{
+	display: flex;
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+.information{
+	display: flex;
+	margin-left: 20px;
+}
+form{
+	color: red;
+}
+
+input{
+	font-size: 20px;
+	height: 50px;
+	margin-top: 10px;
+	background-color:orange;
+	border-radius: 5px;
+	color: white;
+}
+button{
+	margin-left: 70px;
+}
+
+footer{
+	background-color: #0B0D17;
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	padding: 10px 20px;
+}
+footer h1{
+	font-family: 'Pacifico', cursive;
+}
